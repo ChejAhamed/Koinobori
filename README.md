@@ -1,4 +1,4 @@
-# Koinobori: The e-commerce fashion web for Japan and vaporwave lovers.
+# 🎏Koinobori: The e-commerce fashion web for Japan and vaporwave lovers.🏮
 
 This project allowed me to program with a skilful team from which I learned a lot since the very beginning. <a href="https://github.com/AndyGaSa">Andy García</a> and <a href="https://github.com/lolarufino">Lola Rufino </a> , I wholeheartedly appreciate your commitment and effort. Working with you is always a pleasure. 🌸
 
